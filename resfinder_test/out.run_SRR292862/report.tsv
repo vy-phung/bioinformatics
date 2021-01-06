@@ -1,0 +1,16 @@
+#ariba_ref_name	ref_name	gene	var_only	flag	reads	cluster	ref_len	ref_base_assembled	pc_ident	ctg	ctg_len	ctg_cov	known_var	var_type	var_seq_type	known_var_change	has_known_var	ref_ctg_change	ref_ctg_effect	ref_start	ref_end	ref_nt	ctg_start	ctg_end	ctg_nt	smtls_total_depth	smtls_nts	smtls_nts_depth	var_description	free_text
+ant_3____Ia.1_X02340	ant_3____Ia.1_X02340	1	0	528	326	aadA1+	972	140	97.14	aadA1+.l15.c17.ctg.1	173	48.4	0	.	p	.	0	T15fs	FSHIFT	43	43	A	35	35	A	4	A	4	.	Original name: ant(3'')-Ia_1_X02340
+aph_3____Ib.5_AF321551	aph_3____Ib.5_AF321551	1	0	59	2008	aph_3____Ib	804	804	100.0	aph_3____Ib.l15.c30.ctg.3	1026	50.5	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Original name: aph(3'')-Ib_5_AF321551
+aph_6__Id.1_M28829	aph_6__Id.1_M28829	1	0	51	2568	aph_6__Id	837	832	100.0	aph_6__Id.l15.c17.ctg.1	855	77.3	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Original name: aph(6)-Id_1_M28829
+blaCTX_M_15.1_AY044436	blaCTX_M_15.1_AY044436	1	0	27	1842	blaCTX_M_-	876	876	100.0	blaCTX_M_-.l6.c17.ctg.1	1841	32.8	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Original name: blaCTX-M-15_1_AY044436
+blaCTX_M_64.1_AB284167	blaCTX_M_64.1_AB284167	1	0	544	664	blaCTX_M_-_4	876	218	99.08	blaCTX_M_-_4.l6.c4.ctg.1	644	15.8	0	.	p	.	0	P70A	NONSYN	208	210	CCA	215	217	GCG	14;12;11	G;C,CT;G	14;10,1;11	.	Original name: blaCTX-M-64_1_AB284167
+blaCTX_M_64.1_AB284167	blaCTX_M_64.1_AB284167	1	0	544	664	blaCTX_M_-_4	876	223	98.65	blaCTX_M_-_4.l6.c4.ctg.3	285	31.2	0	.	p	.	0	R225Q	NONSYN	673	675	CGG	38	40	CAG	1;1;1	C;A;G	1;1;1	.	Original name: blaCTX-M-64_1_AB284167
+blaTEM_1B.1_AY458016	blaTEM_1B.1_AY458016	1	0	187	4382	blaTEM_-	861	861	100.0	blaTEM_-.l15.c4.ctg.1	892	125.6	0	HET	.	.	.	C531T	.	531	531	C	562	562	C	100	C,T	64,34	.	Original name: blaTEM-1B_1_AY458016
+dfrA7.1_AB161450	dfrA7.1_AB161450	1	0	59	1508	dfrA-	474	474	100.0	dfrA-.l6.c17.ctg.1	1141	43.2	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Original name: dfrA7_1_AB161450
+mdf_A_.1_Y08743	mdf_A_.1_Y08743	1	0	800	2114	mdf_A_	1233	200	99.0	mdf_A_.l6.c30.ctg.1	1122	19.7	0	.	p	.	0	M296I	NONSYN	886	888	ATG	1109	1111	ATT	23;23;23	A;T;T	23;23;23	.	Original name: mdf(A)_1_Y08743
+mdf_A_.1_Y08743	mdf_A_.1_Y08743	1	0	800	2114	mdf_A_	1233	466	98.89	mdf_A_.l6.c30.ctg.2	683	38.3	0	.	p	.	0	L379Q	NONSYN	1135	1137	CTG	307	309	GTC	52;47;46	G;T;C	49;44;43	.	Original name: mdf(A)_1_Y08743
+mdf_A_.1_Y08743	mdf_A_.1_Y08743	1	0	800	2114	mdf_A_	1233	140	100.0	mdf_A_.l6.c30.ctg.3	148	59.6	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Original name: mdf(A)_1_Y08743
+mdf_A_.1_Y08743	mdf_A_.1_Y08743	1	0	800	2114	mdf_A_	1233	108	100.0	mdf_A_.l6.c30.ctg.5	110	34.7	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Original name: mdf(A)_1_Y08743
+sul1.39_AY522923	sul1.39_AY522923	1	0	27	1548	sul1	828	828	100.0	sul1.l15.c30.ctg.4	855	46.5	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Original name: sul1_39_AY522923
+sul2.3_HQ840942	sul2.3_HQ840942	1	0	59	1792	sul2	816	816	100.0	sul2.l6.c17.ctg.1	907	49.8	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Original name: sul2_3_HQ840942
+tet_A_.4_AJ517790	tet_A_.4_AJ517790	1	0	59	3178	tet_A_	1200	1200	100.0	tet_A_.l15.c4.ctg.2	1302	61.2	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Original name: tet(A)_4_AJ517790
