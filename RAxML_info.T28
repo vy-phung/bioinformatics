@@ -1,0 +1,73 @@
+
+
+Using BFGS method to optimize GTR rate parameters, to disable this specify "--no-bfgs" 
+
+
+
+This is RAxML version 8.2.12 released by Alexandros Stamatakis on May 2018.
+
+With greatly appreciated code contributions by:
+Andre Aberer      (HITS)
+Simon Berger      (HITS)
+Alexey Kozlov     (HITS)
+Kassian Kobert    (HITS)
+David Dao         (KIT and HITS)
+Sarah Lutteropp   (KIT and HITS)
+Nick Pattengale   (Sandia)
+Wayne Pfeiffer    (SDSC)
+Akifumi S. Tanabe (NRIFS)
+Charlie Taylor    (UF)
+
+
+Alignment has 34 distinct alignment patterns
+
+Proportion of gaps and completely undetermined characters in this alignment: 0.00%
+
+RAxML rapid hill-climbing mode
+
+Using 1 distinct models/data partitions with joint branch length optimization
+
+
+Executing 1 inferences on the original alignment using 1 user-specified trees
+
+All free model parameters will be estimated by RAxML
+GAMMA model of rate heterogeneity, ML estimate of alpha-parameter
+
+GAMMA Model parameters will be estimated up to an accuracy of 0.1000000000 Log Likelihood units
+
+Partition: 0
+Alignment Patterns: 34
+Name: No Name Provided
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+
+RAxML was called as follows:
+
+raxmlHPC-SSE3 -p12345 -r backboneConstraint.txt -m GTRGAMMA -s dna.phy -n T28 
+
+
+Partition: 0 with name: No Name Provided
+Base frequencies: 0.325 0.288 0.168 0.218 
+
+You provided an incomplete starting tree 4 alignmnet has 10 taxa
+Inference[0]: Time 0.220101 GAMMA-based likelihood -377.824301, best rearrangement setting 5
+alpha[0]: 0.320005 rates[0] ac ag at cg ct gt: 1203.218059 1755.253815 1945.199020 155.065733 7003.405945 1.000000 
+
+
+Conducting final model optimizations on all 1 trees under GAMMA-based models ....
+
+Inference[0] final GAMMA-based Likelihood: -377.745215 tree written to file /home/vy/Downloads/standard-RAxML-master/raxml_test/RAxML_result.T28
+
+
+Starting final GAMMA-based thorough Optimization on tree 0 likelihood -377.745215 .... 
+
+Final GAMMA-based Score of best tree -377.745215
+
+Program execution info written to /home/vy/Downloads/standard-RAxML-master/raxml_test/RAxML_info.T28
+Best-scoring ML tree written to: /home/vy/Downloads/standard-RAxML-master/raxml_test/RAxML_bestTree.T28
+
+Overall execution time: 0.260904 secs or 0.000072 hours or 0.000003 days
+
